@@ -1,0 +1,7 @@
+{
+  "goal": "Zachować kontrolowalny ślad od jednostki kodowania do niezmienionego fragmentu źródłowego.",
+  "input": "Rejestr fragmentów z ID, przypadkiem, kolejnością, mówcą, plikiem i tekstem.",
+  "observable_result": "Każdy wiersz ma stabilne ID i pozwala wrócić do dokładnego tekstu oraz jego miejsca w przypadku.",
+  "automatic_check": "ID są niepuste i unikalne, kolejność jest jawna, tekst i liczba wierszy nie zmieniają się.",
+  "researcher_decision": "Czy tura, zdanie albo krótszy fragment jest właściwą jednostką dla danego modelu kodowania."
+}
