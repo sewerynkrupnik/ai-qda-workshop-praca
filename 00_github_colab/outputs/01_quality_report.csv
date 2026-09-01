@@ -1,0 +1,8 @@
+kontrola,zaliczona,znaczenie
+Zachowano liczbę jednostek,True,Żaden fragment nie zniknął ani nie został dodany.
+Zachowano wymagane informacje,True,Można wrócić do źródła i zobaczyć wynik procedury.
+Tekst pozostał dokładnie taki sam,True,Procedura nie przepisała wypowiedzi.
+Kolejność źródłowa została zachowana,True,Sekwencja rozmowy nie została przestawiona.
+Identyfikatory są kompletne i unikalne,True,Każdą jednostkę można jednoznacznie wskazać.
+Niejednoznaczna etykieta czeka na przegląd,True,Program nie zastąpił decyzji badacza automatycznym przypisaniem.
+Dane wejściowe nie zostały zmienione,True,Procedura utworzyła nowy rezultat.

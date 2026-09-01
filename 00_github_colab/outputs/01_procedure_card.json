@@ -1,0 +1,6 @@
+{
+  "goal": "Przygotować jednostki materiału do dalszego kodowania bez utraty związku ze źródłem.",
+  "observable_result": "Każdy wiersz ma stabilne ID i rolę mówcy; dokładny tekst oraz kolejność są zachowane.",
+  "automatic_checks": "Nie ubywa wierszy, tekst i kolejność się nie zmieniają, a identyfikatory są unikalne.",
+  "researcher_decision": "Niejednoznaczna etykieta otrzymuje needs_review; jej interpretację rozstrzyga badacz."
+}

@@ -1,0 +1,5 @@
+pytanie,decyzja
+Jak obsłużyć niejednoznaczność?,pozostaw needs_review
+Jaki kontekst jest potrzebny?,Dokumentacja etykiet mówców i podgląd sąsiednich wypowiedzi.
+Czy jednostka jest użyteczna?,"Wiersz zachowuje sekwencję, ale jego przydatność dla kodowania trzeba ocenić na dłuższym fragmencie."
+Co zmienić przed korpusem?,Dodać udokumentowaną mapę etykiet występujących w korpusie i kolejkę przypadków do przeglądu.

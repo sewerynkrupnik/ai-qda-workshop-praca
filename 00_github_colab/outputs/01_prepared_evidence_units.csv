@@ -1,0 +1,9 @@
+interview_id,source_row,speaker_raw,text,speaker_role,evidence_id
+WYWIAD_01,1,Badacz,Co zmieniło się w Pani pracy w ostatnim roku?,moderator,WYWIAD_01_U001
+WYWIAD_01,2,Respondent,Najtrudniejsze było ciągłe przełączanie się między zadaniami.,participant,WYWIAD_01_U002
+WYWIAD_01,3,Badacz,Co to dla Pani oznaczało na co dzień?,moderator,WYWIAD_01_U003
+WYWIAD_01,4,Respondent,"Miałam poczucie, że niczego nie kończę naprawdę dobrze.",participant,WYWIAD_01_U004
+WYWIAD_02,1,Moderator,Jak zespół reagował na nowe zasady?,moderator,WYWIAD_02_U001
+WYWIAD_02,2,Uczestniczka,Na początku każdy próbował radzić sobie osobno.,participant,WYWIAD_02_U002
+WYWIAD_02,3,Moderator,A kiedy pojawiła się współpraca?,moderator,WYWIAD_02_U003
+WYWIAD_02,4,Rozmówczyni,Dopiero gdy wspólnie nazwaliśmy problem.,needs_review,WYWIAD_02_U004
