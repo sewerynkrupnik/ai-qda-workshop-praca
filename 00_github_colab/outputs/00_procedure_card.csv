@@ -1,0 +1,6 @@
+element,opis
+Problem w pracy z materiałem,Podział rozmowy może zerwać związek jednostki z kolejnością i źródłem.
+Materiał wejściowy,"Krótka transkrypcja z identyfikatorem wywiadu, etykietą mówcy i dokładnym tekstem."
+Widoczny rezultat,"Tabela jednostek z rolą mówcy, stabilnym ID, kolejnością i niezmienionym tekstem."
+Kontrola techniczna,Liczba i kolejność wierszy oraz tekst pozostają takie same; ID są unikalne.
+Decyzja badacza,Czy granice jednostek są użyteczne analitycznie i jak rozstrzygnąć niejednoznaczne etykiety.
