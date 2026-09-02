@@ -1,0 +1,7 @@
+{
+  "goal": "Z kilku zgodnych F utworzyć używalną przez drugiego kodera kartę S, a S umieścić w oszczędnym zakresie T.",
+  "input": "Kandydackie F, mapowanie D–F oraz cytaty i memo D.",
+  "observable_result": "Kandydacka hierarchia T–S–F–D z pełną kartą S i śladem do tekstu.",
+  "automatic_check": "Rodzice istnieją, nie ma cykli ani duplikatów, S ma wymagane pola, a D zachowuje cytat.",
+  "researcher_decision": "Granica S, wybór zakresu T, postępowanie z kontrprzykładem i ewentualny status accepted."
+}

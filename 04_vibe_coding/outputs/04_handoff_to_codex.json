@@ -1,0 +1,8 @@
+{
+  "workspace": "/content/ai_qda_workshop_workspace/04_vibe_coding/outputs",
+  "research_model": "relevance → D → F → operational S → parsimonious T",
+  "fragile_point": "uzupełnij po review",
+  "one_needed_validation": "uzupełnij po review",
+  "one_adaptation": "uzupełnij przed częścią Codex",
+  "non_delegable": "Granica S, wybór zakresu T, postępowanie z kontrprzykładem i ewentualny status accepted."
+}
