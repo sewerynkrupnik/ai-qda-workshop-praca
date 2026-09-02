@@ -1,0 +1,7 @@
+{
+  "goal": "Rozpoznać wzorce F, które wnoszą zysk analityczny ponad pojedyncze D.",
+  "input": "Profile D zawierające nazwę, cytat i memo.",
+  "observable_result": "Kandydackie F, ich rationale, granice, przypadki negatywne i jawne mapowanie D–F.",
+  "automatic_check": "Każdy D ma jedną decyzję F albo needs_review; wskazane ID istnieją.",
+  "researcher_decision": "Czy wspólny mechanizm jest przekonujący; czy propozycję scalić, rozdzielić albo pozostawić w review."
+}
