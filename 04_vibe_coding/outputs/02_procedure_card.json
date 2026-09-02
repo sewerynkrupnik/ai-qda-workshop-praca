@@ -1,0 +1,7 @@
+{
+  "goal": "Wybrać relewantne fragmenty i zapisać 0-n kandydackich D z dokładnym śladem dowodowym.",
+  "input": "Rejestr jednostek, pytanie badawcze, rama i kryterium relewantności.",
+  "observable_result": "Tabela przypisań z ID fragmentu, kandydackim D, memo i statusem review.",
+  "automatic_check": "Istnieją ID, cytat jest dosłowny, status jest dozwolony, a pusta decyzja trafia do review.",
+  "researcher_decision": "Czy fragment jest relewantny i czy nazwa D trafnie opisuje jego funkcję w materiale."
+}
